@@ -128,3 +128,23 @@ body {
     background-color: #FF9900;
     border: 1vh solid #FF9900;
 }
+.answer-question {
+    border-radius: 5vh;
+    background-color: #FF9900;
+    cursor: pointer;
+    font-size: 4vh;
+    width: auto;
+    height: 10vh;
+    top: 40vh;
+    box-shadow: rgb(138, 138, 138)
+        0.5vh 0.5vh;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    transition: #f1bf75 0.3s ease;
+    gap: none;
+    margin-top: 7vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+}
